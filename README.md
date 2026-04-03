@@ -15,6 +15,8 @@ An all-in-one ADB optimization suite designed to unlock the full potential of Xi
 - Redmi Note 14 Pro 5G
 - Xiaomi Pad 6 (144Hz Force)
 - Poco F1 (Legacy support)
+- K70E
+- Redmi Note 11
 
 ## 🛠️ How to Use
 1. Enable **Developer Options** on your device.
