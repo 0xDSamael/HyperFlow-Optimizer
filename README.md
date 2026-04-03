@@ -1,4 +1,4 @@
-# HyperFlow-Optimizer
+# HyperOS-Optimizer
 Advanced all-in-one debloat and performance optimization script for Xiaomi HyperOS/MIUI devices.
 
 An all-in-one ADB optimization suite designed to unlock the full potential of Xiaomi devices running HyperOS/MIUI.
@@ -13,7 +13,7 @@ An all-in-one ADB optimization suite designed to unlock the full potential of Xi
 
 ## 📱 Tested Devices
 - Redmi Note 14 Pro 5G
-- Xiaomi Pad 6 (144Hz Force)
+- Xiaomi Pad 6 
 - Poco F1 (Legacy support)
 - K70E
 - Redmi Note 11
