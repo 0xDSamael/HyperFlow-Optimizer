@@ -18,6 +18,20 @@ An all-in-one ADB optimization suite designed to unlock the full potential of Xi
 - K70E
 - Redmi Note 11
 
+## 📋 Prerequisites
+Before running the script, ensure your PC and device meet these requirements:
+
+1. **ADB Platform Tools:** - Download the official [Google SDK Platform Tools for Windows](https://developer.android.com/tools/releases/platform-tools).
+   - **Tip:** Extract the folder and add it to your System PATH so you can run `adb` from any folder.
+
+2. **Xiaomi USB Drivers:**
+   - Install the [Xiaomi Official USB Drivers](https://adb.clockworkmod.com/) this is to ensure your PC recognizes your device.
+
+3. **Device Setup:**
+   - **Developer Options:** Go to *Settings > About Phone* and tap "OS Version" 6 to 7 times.
+   - **USB Debugging:** Enable this in *Additional Settings > Developer Options*.
+   - **USB Debugging (Security Settings):** This **MUST** be ON so the script can modify app permissions.
+   
 ## 🛠️ How to Use
 1. Enable **Developer Options** on your device.
 2. Turn on **USB Debugging** and **USB Debugging (Security Settings)**. USB Debugging (Security Settings) sometimes requires you to sign in to Xiaomi, just ignore it.
