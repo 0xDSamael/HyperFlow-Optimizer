@@ -6,17 +6,16 @@ An all-in-one ADB optimization suite designed to unlock the full potential of Xi
 ## ✨ Features
 - **FPS Uncap:** Disables `Joyose` to remove artificial 60 FPS caps in games like CODM.
 - **Power Management:** Restricts `PowerKeeper` to prevent aggressive background app killing.
-- **144Hz Force:** Forcibly enables high refresh rates (optimized for Xiaomi Pad 6).
 - **Extreme Debloat:** Removes tracking, ads, and telemetry (MSA, Analytics, Daemon).
-- **UI Responsiveness:** Sets animation scales to 0.25x for an instant feel.
 - **Multitasking Fix:** Increases the Phantom Process limit for heavy multitasking.
 
 ## 📱 Tested Devices
 - Redmi Note 14 Pro 5G
 - Xiaomi Pad 6 
-- Poco F1 (Legacy support)
+- Poco F1 
 - K70E
 - Redmi Note 11
+- Poco M6 Pro
 
 ## 📋 Prerequisites
 Before running the script, ensure your PC and device meet these requirements:
@@ -37,6 +36,10 @@ Before running the script, ensure your PC and device meet these requirements:
 2. Turn on **USB Debugging** and **USB Debugging (Security Settings)**. USB Debugging (Security Settings) sometimes requires you to sign in to Xiaomi, just ignore it.
 3. Download the file from this repo.
 4. Connect your device to your PC and run the script.
+
+## 🤝 Credits & Acknowledgments
+This project incorporates package lists and optimization logic from the following sources:
+- [debloat-hyperos-adb](https://github.com/matthieu-pierson/debloat-hyperos-adb) - Additional HyperOS package list.
 
 ## ⚠️ Disclaimer
 *I am not responsible for bricked devices or lost data. This script modifies system-level app permissions. Use at your own risk.*
